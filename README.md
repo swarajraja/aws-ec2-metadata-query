@@ -32,12 +32,12 @@ Welcome! This is a simple, secure Python script that helps you fetch the metadat
 
 - **See all available metadata:**
   ```
-  pipenv run python get_metadata.py
+  pipenv run python get_metadata_key.py
   ```
 
 - **Look for a specific metadata key (e.g., your instance ID):**
   ```
-  pipenv run python get_metadata.py instance-id
+  pipenv run python get_metadata_key.py instance-id
   ```
 
 ## 🛠️ How It Works
